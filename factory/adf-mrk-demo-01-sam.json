@@ -1,0 +1,9 @@
+{
+	"name": "adf-mrk-demo-01-sam",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "880fa544-fd3f-4c75-a33b-c9db9ec5e6c6",
+		"tenantId": "1ca3303a-f4fe-4723-95c7-f972dbe0e5e7"
+	}
+}
